@@ -1,0 +1,2 @@
+git checkout
+	Remet le fichier a la derniere version du commit. Il sert a supprimer les modifications
